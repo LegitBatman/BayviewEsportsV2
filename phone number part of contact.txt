@@ -1,0 +1,11 @@
+                    <div class="col-md-4 col-sm-3 wow fadeInRight">
+                        <div class="contact-details">
+                            <span>GET IN TOUCH</span>
+                            <p>+00 123.456.789 <br> <br> +00 123.456.789</p>
+                        </div> <!-- end .contact-details -->
+
+                        <div class="contact-details">
+                            <span>GET IN TOUCH</span>
+                            <p>+00 123.456.789 <br> <br> +00 123.456.789</p>
+                        </div> <!-- end .contact-details -->
+                    </div> <!-- .col-md-4 -->
